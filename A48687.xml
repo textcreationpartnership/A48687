@@ -1,0 +1,848 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A List of the seven thousand men appointed by His Majesty, in his late proclamation, to be the standing forces of this kingdom</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48687</idno>
+            <idno type="STC">Wing L2504A</idno>
+            <idno type="STC">ESTC R34996</idno>
+            <idno type="EEBO-CITATION">14921387</idno>
+            <idno type="OCLC">ocm 14921387</idno>
+            <idno type="VID">102937</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102937)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1574:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A List of the seven thousand men appointed by His Majesty, in his late proclamation, to be the standing forces of this kingdom</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Baldwin ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_forces">
+            <pb facs="tcp:102937:1"/>
+            <head>A LIST Of the SEVEN THOUSAND MEN, Appointed by His MAJESTY, in his late Proclamation, to be <hi>The Standing Forces of this Kingdom.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell>REGIMENTS.</cell>
+                     <cell>COLONELS.</cell>
+                     <cell>Lieutenant-Colonels</cell>
+                     <cell>Majors</cell>
+                     <cell>Captains<note n="*⁎*" place="bottom">Whereof the Colonel, Lieutenant-Colonel, and Major of each Regiment, are Three.</note>
+                     </cell>
+                     <cell>Cornets</cell>
+                     <cell>Guidons</cell>
+                     <cell>Exempts</cell>
+                     <cell>Brigadiers</cell>
+                     <cell>Chaplains</cell>
+                     <cell>Adjutants</cell>
+                     <cell>Quarter-Maſters</cell>
+                     <cell>Lieutenants</cell>
+                     <cell>Sub-Lieutenants</cell>
+                     <cell>Enſigns</cell>
+                     <cell>Surgeons</cell>
+                     <cell>Surgeons <gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>es</cell>
+                     <cell>Kettle-Drums</cell>
+                     <cell>Trumpets</cell>
+                     <cell>Solicitors</cell>
+                     <cell>Sergeants</cell>
+                     <cell>Corporals</cell>
+                     <cell>Deputy-Marſhals</cell>
+                     <cell>Drum-Majors</cell>
+                     <cell>Hoytboys</cell>
+                     <cell>Drummers</cell>
+                     <cell>Number of Men in each Regiment</cell>
+                     <cell>Troops or Companies</cell>
+                     <cell>Number of Men in each Troop or Company</cell>
+                     <cell>Making in all</cell>
+                  </row>
+                  <row>
+                     <cell>1. Troop of Horſe Guards</cell>
+                     <cell>The Earl of <hi>Scarborough</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>16<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>0181</cell>
+                  </row>
+                  <row>
+                     <cell>2. Troop of Horſe Guards</cell>
+                     <cell>The Duke of <hi>Ormond</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>160</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>0181</cell>
+                  </row>
+                  <row>
+                     <cell>3. Troop of Horſe Guards-REGIMENTS.</cell>
+                     <cell>The Earl of <hi>Rivers</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>160</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>0181</cell>
+                  </row>
+                  <row>
+                     <cell>Troop of Granadiers</cell>
+                     <cell>George Ch<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mcr<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll, <hi>Eſq</hi>;</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                     <cell>145</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>0176</cell>
+                  </row>
+                  <row>
+                     <cell>Royal Regiment of Horſe</cell>
+                     <cell>The Earl of <hi>Oxford</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>18</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>324</cell>
+                     <cell>9</cell>
+                     <cell>36</cell>
+                     <cell>0390</cell>
+                  </row>
+                  <row>
+                     <cell>Regiments of Horſe</cell>
+                     <cell>Henry Luml<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y, <hi>Eſq</hi>;</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>18</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>324</cell>
+                     <cell>9</cell>
+                     <cell>36</cell>
+                     <cell>0390</cell>
+                  </row>
+                  <row>
+                     <cell>Regiments of Horſe</cell>
+                     <cell>Cornelius Wood, <hi>Eſq</hi>;</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>204</cell>
+                     <cell>6</cell>
+                     <cell>34</cell>
+                     <cell>0248</cell>
+                  </row>
+                  <row>
+                     <cell>Regiments of Horſe</cell>
+                     <cell>The Earl of <hi>Arran</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>204</cell>
+                     <cell>6</cell>
+                     <cell>34</cell>
+                     <cell>0248</cell>
+                  </row>
+                  <row>
+                     <cell>Regiments of Horſe</cell>
+                     <cell>Hugh Windham, <hi>Eſq</hi>;</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>204</cell>
+                     <cell>6</cell>
+                     <cell>34</cell>
+                     <cell>0248</cell>
+                  </row>
+                  <row>
+                     <cell>Regiments of Horſe</cell>
+                     <cell>Duke of <hi>Scomberg</hi> and <hi>Lemſter</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>204</cell>
+                     <cell>6</cell>
+                     <cell>34</cell>
+                     <cell>0248</cell>
+                  </row>
+                  <row>
+                     <cell>Regiments of Horſe</cell>
+                     <cell>The Earl of <hi>Macklesfeild</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>204</cell>
+                     <cell>6</cell>
+                     <cell>34</cell>
+                     <cell>0248</cell>
+                  </row>
+                  <row>
+                     <cell>Royal Regiments of Dragoons</cell>
+                     <cell>The Lord <hi>Raby</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>228</cell>
+                     <cell>6</cell>
+                     <cell>38</cell>
+                     <cell>0283</cell>
+                  </row>
+                  <row>
+                     <cell>Regiments of Dragoons</cell>
+                     <cell>William Lloyd, <hi>Eſq</hi>;</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>228</cell>
+                     <cell>6</cell>
+                     <cell>38</cell>
+                     <cell>0283</cell>
+                  </row>
+                  <row>
+                     <cell>Regiments of Dragoons</cell>
+                     <cell>The Earl of <hi>Eſſex</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>228</cell>
+                     <cell>6</cell>
+                     <cell>38</cell>
+                     <cell>0283</cell>
+                  </row>
+                  <row>
+                     <cell>1. Regiment of Foot Guards.</cell>
+                     <cell>The Earl of <hi>Romney</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>28</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>32</cell>
+                     <cell>—</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>56</cell>
+                     <cell>56</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>56</cell>
+                     <cell>1120</cell>
+                     <cell>28</cell>
+                     <cell>40</cell>
+                     <cell>1383</cell>
+                  </row>
+                  <row>
+                     <cell>2. Regiment of Foot Guards.</cell>
+                     <cell>The Lord <hi>Cutts</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>14</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>16</cell>
+                     <cell>—</cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>28</cell>
+                     <cell>28</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>28</cell>
+                     <cell>560</cell>
+                     <cell>14</cell>
+                     <cell>40</cell>
+                     <cell>06<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>4</cell>
+                  </row>
+                  <row>
+                     <cell>Regiments of Foot</cell>
+                     <cell>William Selwyn, <hi>Eſq</hi>;</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>20</cell>
+                     <cell>20</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>360</cell>
+                     <cell>10</cell>
+                     <cell>36</cell>
+                     <cell>04<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>5</cell>
+                  </row>
+                  <row>
+                     <cell>Regiments of Foot</cell>
+                     <cell>Charles Churchill, <hi>Eſq</hi>;</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>20</cell>
+                     <cell>20</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>360</cell>
+                     <cell>10</cell>
+                     <cell>36</cell>
+                     <cell>0445</cell>
+                  </row>
+                  <row>
+                     <cell>Regiments of Foot</cell>
+                     <cell>Henry Trelawney, <hi>Eſq</hi>;</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>20</cell>
+                     <cell>20</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>360</cell>
+                     <cell>10</cell>
+                     <cell>36</cell>
+                     <cell>0445</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>19</cell>
+                     <cell>16</cell>
+                     <cell>16</cell>
+                     <cell>138</cell>
+                     <cell>69</cell>
+                     <cell>4</cell>
+                     <cell>12</cell>
+                     <cell>12</cell>
+                     <cell>19</cell>
+                     <cell>12</cell>
+                     <cell>69</cell>
+                     <cell>152</cell>
+                     <cell>2</cell>
+                     <cell>66</cell>
+                     <cell>9</cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>60</cell>
+                     <cell>2</cell>
+                     <cell>168</cell>
+                     <cell>282</cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell>22</cell>
+                     <cell>136</cell>
+                     <cell>5737</cell>
+                     <cell>138</cell>
+                     <cell>544</cell>
+                     <cell>7000</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>A. Baldwin,</hi> near the <hi>Oxford-Arms</hi> Inn, in <hi>Warwick-Lane,</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
